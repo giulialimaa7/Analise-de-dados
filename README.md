@@ -30,7 +30,7 @@ Isso representa **perda de milhões em receita**.
 
 ## 📦 Tecnologias e Ferramentas Utilizadas  
 
-- **Python 3.x**  
+- **Python**  
 - **Pandas / NumPy** – Manipulação e análise de dados  
 - **Matplotlib / Seaborn / Plotly** – Visualização de dados  
 - **Scikit-learn** – Modelagem preditiva  
